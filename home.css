@@ -1,0 +1,31 @@
+/* Main content section */
+.main-grid {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 2rem; 
+  align-items: center;
+}
+#first-block {
+  padding: 0rem 1.5rem 0.25rem 1.5rem;
+  color: white;
+  background-color: #114072;
+  border-radius: 1rem;
+  max-width: 600px;
+}
+#welcome-content {
+  text-align: center;
+}
+#content {
+  max-width: 1100px;
+  margin: auto;
+  color: black;
+  border-radius: 1rem;
+}
+#tahiti-image img {
+  width: 100%;
+  border-radius: 1rem;
+}

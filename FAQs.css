@@ -1,0 +1,32 @@
+.main-grid {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  display: block;
+  max-width: 500px;
+  margin: 0 300px;
+}
+.intro {
+  font-size: 30pt;
+}
+#FAQ-variant-1 {
+    background-color: #4A4063;
+    color: white;
+    box-shadow: 2px 6px 3px rgba(0, 0, 0, 0.445);
+}
+#FAQ-variant-2 {
+    background-color: #806faa;
+    box-shadow: 2px 6px 3px rgba(0, 0, 0, 0.445);
+}
+
+details {
+    color: black;
+    max-width: 1300px;
+    border-radius: 2rem;
+    margin: 2rem auto;
+    padding: 0.5rem 2rem 0.5rem;
+}
+
+details p {
+  max-width: 1100px;
+  margin: 0.5rem 0 0 3rem;
+}

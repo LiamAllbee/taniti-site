@@ -1,0 +1,9 @@
+div img {
+  width: 100%;
+  border-radius: 1rem;
+}
+
+.call-to-action {
+    max-width: 400px;
+    margin: auto;
+}
