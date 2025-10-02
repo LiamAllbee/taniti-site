@@ -101,7 +101,8 @@ nav.breadcrumbs {
   background-color: #BFACC8;
   width: fit-content;
   height: 40px;
-  margin-left: 24rem;
+  margin-right: auto;
+  margin-left: auto;
   border-radius: 0rem 0rem 1rem 1rem;
 }
 nav.breadcrumbs ul {
